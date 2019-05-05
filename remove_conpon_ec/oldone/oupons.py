@@ -1,4 +1,4 @@
-__author__ = 'ming.xiesh'
+
 
 import sys
 import pymssql
